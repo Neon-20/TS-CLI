@@ -1,6 +1,7 @@
 {
+
   "name":"@neon-20/ts-cli",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "",
   "main": "dist/index.js",
   "bin":{
@@ -16,7 +17,7 @@
   "author": "Pranav Rajveer",
   "license": "ISC",
   "repository": "https://github.com/Neon-20/TS-CLI",
-  "homepage": "https://github.com/Neon-20/TS-CLI#readme",
+  "homepage": "https://github.com/Neon-20/TS-CLI#README",
   "dependencies": {
     "commander": "^11.0.0",
     "figlet": "^1.6.0"
