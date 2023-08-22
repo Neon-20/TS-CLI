@@ -1,5 +1,5 @@
 {
-  "name":"@Neon-20/TS-CLI",
+  "name":"@neon-20/ts-cli",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
