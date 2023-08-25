@@ -5,13 +5,14 @@
 A CLI directory manager that can be used to create directories, list directory contents and create files.
 
 ### Things used:
+
 - Commander.JS
 - Figlet
 - NodeCLI
 - TS/JS
 
 
-This code is for showing all files in directory
+This code is for showing all files in directory..
 ```
 manager -l
 ```
